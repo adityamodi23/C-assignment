@@ -19,7 +19,7 @@ int main(){
         printf("Grade: First Divison\n");
     else if(agg_marks>=50)
         printf("Grade: Second Divison\n");
-    else
+    else if(agg_marks>=40)
        printf("Grade: Third Divison\n");
 
 
